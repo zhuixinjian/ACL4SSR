@@ -342,15 +342,11 @@
 (^|\.)tongji\.home\.soufun\.com$
 
 # Google
-(^|\.)admob\.com$
 (^|\.)ads\.gmodules\.com$
-(^|\.)ads\.google\.com$
 (^|\.)adservice\.google\.com$
 (^|\.)afd\.l\.google\.com$
 (^|\.)badad\.googleplex\.com$
 (^|\.)csi\.gstatic\.com$
-(^|\.)doubleclick(\.com|\.net)$
-(^|\.)google-analytics\.com$
 (^|\.)googleadservices\.com$
 (^|\.)googleadsserving\.cn$
 (^|\.)googlecommerce\.com$
